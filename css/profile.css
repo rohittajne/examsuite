@@ -1,0 +1,60 @@
+<style type="text/css">
+body {
+	background-image: url(images/content-bg.jpg);
+	background-color: #F8F9FB;
+}
+
+#apDiv1 {
+	position: absolute;
+	width: 1111px;
+	height: 498px;
+	z-index: 1;
+	left: 11px;
+	top: 10px;
+	background-image: url(images/backgro%20-%20Copy.png);
+}
+#apDiv2 {
+	position: absolute;
+	width: 330px;
+	height: 241px;
+	z-index: 1;
+	left: 12px;
+	top: 167px;
+}
+#apDiv3 {
+	position: absolute;
+	width: 580px;
+	height: 236px;
+	z-index: 2;
+	left: 356px;
+	top: 175px;
+}
+#apDiv4 {
+	position: absolute;
+	width: 164px;
+	height: 46px;
+	z-index: 3;
+	left: 923px;
+	top: 22px;
+}
+body,td,th {
+	color: #CCCCCC;
+}
+
+#apDiv5 {
+	position: absolute;
+	width: 1110px;
+	height: 583px;
+	z-index: 2;
+	top: 434px;
+}
+#apDiv6 {
+	position: absolute;
+	width: 1125px;
+	height: 291px;
+	z-index: 3;
+	top: 914px;
+	background-image: url(images/backgro.png);
+	left: 1px;
+}
+</style>
